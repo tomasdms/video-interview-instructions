@@ -84,7 +84,7 @@ All lights that we add to the scene should match the color temperature of the av
 
 >**Positioning tip:** You will know you are on the right angle when both cheeks receive light but not one of the ears. (Light ends right at the cheekbone)
 
-#### Note on Natural light:
+#### Note on Natural Light:
 Whenever possible it's preferable to use a window as our main light, provided that there is enough in the room to get the right exposure. And as long as there is no direct sunlight hitting the subject.
 
 Using a window will demand that we arrange the position of subject and cameras according to the window.
@@ -99,7 +99,7 @@ This light can be harder than the main light but make sure it doesn't hit the su
 
 >**Tip:** If our rim light is very small, and we can't place it above the frame, sometimes it's best to hide it right behind the subject.
 
-#### Fill light:
+#### Fill Light:
 It's always useful but not always necessary to place a white reflector on the opposite side of the subject as a fill light. the need for this will depend on the amount of ambient light and size of the room, as well as the color of the walls. In general, if the dark side is more than 3 or 4 stops lower than the bright side, it's good to bring it up a bit with a white reflector close enough to the face to bounce light from the main light but not so close that it enters our frame.
 
 
@@ -132,6 +132,9 @@ It's important to check how the person on camera looks before we start recording
 - An external audio recorder closer to the subject is also a good redundancy measurement to ensure that no matter what, we have good audio.
 
 #### Lavalier (“LAV”) Microphone Setup Tips:
+
+![](./img/mic_placement.jpg)
+
 - The microphone’s (“mic”) wire should be hidden underneath the subject's shirt/jacket. In case of a dress, sometimes it's best to hide the wire behind them and pass it under their arm or over the shoulder.
 
 - It's important that the microphone capsule is not rubbing anything such as: skin, clothes, necklaces, etc. We should always position the clip so the capsule is on the outside (not touching anything) facing up toward the subject's mouth.
