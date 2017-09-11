@@ -175,3 +175,4 @@ The total list of files that you send us might look like this:
 ## Freedeographer Operations Contact Info
 Tomas De Matteis, Head of Production, Tomas@FirstCut.io
 Freedeographer Operations: Fops@Freedeo.io
+<script src="/assets/js/tocbot.js"></script>
