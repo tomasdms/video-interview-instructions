@@ -155,14 +155,23 @@ In order to complete the project is your job to upload the footage to our platfo
 We expect the footage to be organized and uploaded in the following way:
 
 1- All the b-roll files (which are small but there’s many of them) should be inside a zip file named [b-roll.zip]
-2- The files from the Interviews footage should be renamed as illustrated below:
-[subject’s name] - [Cam A/B] - [original file name]
-Cam A= The main camera, the wider shoot with the Lav mic audio.
-Cam B = the secondary camera, the tighter shoot.
-So if your original filename was MVI_1265.MP4 you should rename it to
-“John D - Cam A - MVI_1265.MP4”
-The total list of files that you send us might look like this.
+2- The files from the Interviews footage should be renamed like this:
+	[subject’s name] - [Cam A/B] - [original file name]
 
+Cam A for the "main shoot" and Cam B for the "close-up".
 
+So if your original filename was
+	
+	MVI_1265.MP4
 
+you should rename it to
 
+	John D - Cam A - MVI_1265.MP4
+
+The total list of files that you send us might look like this:
+
+![](./img/files_example.jpg)
+
+## Freedeographer Operations Contact Info
+Tomas De Matteis, Head of Production, Tomas@FirstCut.io
+Freedeographer Operations: Fops@Freedeo.io
