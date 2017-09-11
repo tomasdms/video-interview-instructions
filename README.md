@@ -23,6 +23,7 @@ This interview will be recorded with (2) cameras.
 
 ### Both Cameras Placement (diagram) <a name="diagram"></a>
 Refer Back to this diagram as you read the rest of the instructions about camera placement. It will all make sense.
+
 ![two-camera diagram](./img/2camera_diagram.png "Two-camera diagram")
 
 - Camera is on tripod.
@@ -36,6 +37,7 @@ Refer Back to this diagram as you read the rest of the instructions about camera
 
 #### CAM A - Shot Size
 The Main Shot edges are 2 inches above the head up top and 2 inches above the belly button at the bottom.
+
 ![](./img/camA_size.png)
 
 #### CAM A - Shot Composition (rule of thirds)
@@ -175,4 +177,3 @@ The total list of files that you send us might look like this:
 ## Freedeographer Operations Contact Info
 Tomas De Matteis, Head of Production, Tomas@FirstCut.io
 Freedeographer Operations: Fops@Freedeo.io
-<script src="/assets/js/tocbot.js"></script>
