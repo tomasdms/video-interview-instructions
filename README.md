@@ -3,7 +3,7 @@
 
 # Two-camera Shoot Specs
 V2: Updated: Aug 09, 2017 by Tomas De Matteis
-This Specs and Instructions are aplicable to any two-camera Shoot, for example (Video 
+This Specs and Instructions are applicable to any two-camera Shoot, for example (Video 
 testimonial template)
 
 This templates consists of (2) parts: “the interview” and “company B-roll”.
@@ -73,7 +73,7 @@ The subject is also being crossed by the vertical line of third, on the same sid
 ### Interview Lighting
 
 #### Color temperature:
-All lights that we add to the scene should match the color temperature of the available light in the scene, whether that's daylight or tungsten. If there is a lot of window light in the room we should use daylight lights if there are warm tugsten or fluorests we should match that too. The objective is to avoid mixing color temperatures, even when that means turning the existing lights off or lowering the blinds.
+All lights that we add to the scene should match the color temperature of the available light in the scene, whether that's daylight or tungsten. If there is a lot of window light in the room we should use daylight lights if there are warm tungsten or fluorescent we should match that too. The objective is to avoid mixing color temperatures, even when that means turning the existing lights off or lowering the blinds.
 
 #### Main Light
 ![](./img/main_light.jpg)
@@ -105,10 +105,10 @@ It's always useful but not always necessary to place a white reflector on the op
 
 #### Other “Lighting” Tips and Advice
 - Watch out for lights shining into the camera and creating glares or washing out the image.
-- **Fluorescent Lights Warning:** Office fluorescent tubes and some other fluorescent lamps might cause <a href="https://www.youtube.com/watch?v=srQlxkdpLAs" target="_blank">flickering or banding</a> on our shot making it unsusable. It's preferable to turn them off but if not possible, playing with the shutter speed of our cameras usually helps (multiples of 50 or 60 depending on when you are in the world)
+- **Fluorescent Lights Warning:** Office fluorescent tubes and some other fluorescent lamps might cause <a href="https://www.youtube.com/watch?v=srQlxkdpLAs" target="_blank">flickering or banding</a> on our shot making it unusable. It's preferable to turn them off but if not possible, playing with the shutter speed of our cameras usually helps (multiples of 50 or 60 depending on when you are in the world)
 - TVs might create a similar problem or introduce unnatural color casting on our subject, it's also best to turn them off if they are not in the frame.
 - **Laptops and Other Devices:** If for some reason there is a laptop facing the subject (they may be reading from it) we need to make sure that we bring the “brightness” down low enough so there is no visible amount of light hitting our subject's face. Light coming from low angles is very unflattering.
-- **Moving Vehicles** On rare occasions (but often enough to mention it), when shooting near a busy street in a room with big windows, the angle of the sun is just so that it will reflect in the windshield of cars passing by and enter our shot from a low angle. As artistic and dynamic as this might seem, it's very distracting on an interview shoot and we should try to avoid it, usually lowering the blins is enough.
+- **Moving Vehicles** On rare occasions (but often enough to mention it), when shooting near a busy street in a room with big windows, the angle of the sun is just so that it will reflect in the windshield of cars passing by and enter our shot from a low angle. As artistic and dynamic as this might seem, it's very distracting on an interview shoot and we should try to avoid it, usually lowering the blinds is enough.
 
 
 ### The Subject (The person in front of the camera)
@@ -116,9 +116,9 @@ It's important to check how the person on camera looks before we start recording
 
 - **Shiny Skin:** This is a common problem that we should look out for, specially after a while inside a room with filming lights, people can start to sweat. But sometimes we just have subjects with oily skin. No matter what the cause is we should be prepare and have tissues for the sweat and <a href="https://www.sephora.com/product/green-tea-blotting-linens-P61217?skuId=1164037&icid2=products%20grid:p61217" target="blank">Blotting liners</a> to offer then in case of oily skin. (Blotting liners are to be press in the different spots, and not rub.)
 
-- **Posture:** Make sure the chair they are sitting in doesn't allow them to slouch. When possible always use one without a backrest or ask them to sit on the edge of the chair. If necessary, tell them.- _“I’m gonna ask you to please sit on the edge of the chair and not lean against the back, that will give you a better posture on camera.”_
+- **Posture:** Make sure the chair they are sitting in doesn't allow them to slouch. When possible always use one without a backrest or ask them to sit on the edge of the chair. If necessary, tell them.- _“I’m gonna ask you to please sit on the edge of the chair and not lean against the back, that will give you a better posture on camera.”_
 
-- **Identifying the subjects:** It's your job to make sure that each subject that gets in front of the camera introduces themselves by saying their full name at the beginning of their first recorded interview. That way we can identify them in postproduction and add the correct nameplate. If you forget to ask them to do this at the begining of the interview, please take a note of their name, you will need at least their first name when you are naming the files (more about this in the file naming section).
+- **Identifying the subjects:** It's your job to make sure that each subject that gets in front of the camera introduces themselves by saying their full name at the beginning of their first recorded interview. That way we can identify them in postproduction and add the correct nameplate. If you forget to ask them to do this at the beginning of the interview, please take a note of their name, you will need at least their first name when you are naming the files (more about this in the file naming section).
 
 ### The Interviewer
 - Interviewer is also be at the same height as the subject, whether standing or seated.
@@ -127,7 +127,7 @@ It's important to check how the person on camera looks before we start recording
 ### Sound
 - CAM A (Main Shot) has the main audio track that comes from a lavalier mic.
 - Audio levels are adjusted accorded to the voice volume.
-- If the camera in use allows it, it's best to record the same mic in both channels at different levels: one optimum and one slightly lower. In case the subject unexpectenly raises their voice.
+- If the camera in use allows it, it's best to record the same mic in both channels at different levels: one optimum and one slightly lower. In case the subject unexpectedly raises their voice.
 - It's also a good practice to connect an ambient mic to the second camera in order to record backup audio. And even if an ambient mic is not available, the second camera MUST have an audio signal too, this “reference” audio track, even a bad quality audio like the internal camera mic audio, will allow us to sync the cameras in post-production.
 - An external audio recorder closer to the subject is also a good redundancy measurement to ensure that no matter what, we have good audio.
 
@@ -154,7 +154,7 @@ Be creative, this is your time to shine and come out with great shoots that can 
 - Details of “people’s hands” while working
 - Details of their eyes
 - Camera “follows someone from behind” while they walk in the office.
-- Same 2-3 people talking to each other from 2-3 different angles. (fin 2 or 3 diffenet groups)
+- Same 2-3 people talking to each other from 2-3 different angles. (fin 2 or 3 different groups)
 
 ## Footage Upload:
 In order to complete the project is your job to upload the footage to our platform within 24hs of the shoot being completed. Depending of your internet connection speed this might take several hours, so please have this in mind and start the upload process as soon as you can. You will receive an email with Upload credentials prior to the shoot.
