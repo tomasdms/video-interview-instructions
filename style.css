@@ -1,3 +1,7 @@
-body {
-color: pink;
+#main_content {
+ max-width: 700px;
+}
+
+#header_wrap {
+  display: none;
 }
