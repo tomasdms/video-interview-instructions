@@ -1,3 +1,4 @@
+<link type="text/css" rel="stylesheet" href="./style.css" />
 # Two-camera Shoot Specs
 V2: Updated: Aug 09, 2017 by Tomas De Matteis
 This Specs and Instructions are aplicable to any two-camera Shoot, for example (Video 
