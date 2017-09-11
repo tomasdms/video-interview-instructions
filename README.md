@@ -2,7 +2,7 @@
 
 
 # Two-camera Shoot Specs
-V2: Updated: Aug 09, 2017 by Tomas De Matteis
+V3: Updated: Sep 10th, 2017 by Tomas De Matteis
 This Specs and Instructions are applicable to any two-camera Shoot, for example (Video 
 testimonial template)
 
