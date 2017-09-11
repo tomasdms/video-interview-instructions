@@ -43,16 +43,19 @@ The Main Shot edges are 2 inches above the head up top and 2 inches above the be
 #### CAM A - Shot Composition (rule of thirds)
 The subject is positioned on one of the vertical third lines of the frame. (The line crosses their face between the eyes as seen on the examples)
 
-If the subject is looking at the interviewer to the right of the camera then we will frame them in the left third
+If the subject is looking at the interviewer to the right of the camera then we will frame them in the left third.
+
 ![](./img/camAleft.jpg)
 
-If the subject is looking at the interviewer to the left of the camera then we will frame them in the right third
+If the subject is looking at the interviewer to the left of the camera then we will frame them in the right third.
+
 ![](./img/camAright.jpg)
 
 ### Close-up Shot (CAM B)
 
 #### CAM B - Shot Size
 This Shot is much tighter, the edges are 1 inch above the head up top and 2 inches below the collarbone at the bottom.
+
 ![](./img/camB_size.png)
 
 #### CAM B - Shot Composition (rule of thirds)
@@ -163,7 +166,7 @@ We expect the footage to be organized and uploaded in the following way:
 Cam A for the "main shoot" and Cam B for the "close-up".
 
 So if your original filename was
-	
+
 	MVI_1265.MP4
 
 you should rename it to
