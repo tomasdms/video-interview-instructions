@@ -142,7 +142,7 @@ It's important to check how the person on camera looks before we start recording
 - It's also good to loop the wire once around the clip so that the weight of the wire doesn't pull the mic into a different angle. It's not necessary to hide the capsule from the camera; it's perfectly normal to see the mic in the shot. It's advisable to hide the hanging wire so it is not distracting, especially against a white shirt, but the capsule itself is perfectly ok.
 
 ## PART 02: B-Roll
-Be creative, this is your time to shine and come out with great shoots that can illustrate what the subject was talking about or tell us more about them and their company in a visual way.
+Be creative, this is your time to shine and come out with great shoots that can illustrate what the subject was talking about or tell us more about them and their company in a visual way. You are going to capture at least %80 of this shots if not all using a tripod or slider.
 
 ### Some examples of b-roll shots that you can capture:
 - Whenever the subjects have time for this, we want to make sure we capture images of them working, talking to colleagues, working on the computer (using the product), on the phone, walking around the office, writing on the whiteboard, etc 
