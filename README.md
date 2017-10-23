@@ -25,7 +25,7 @@ This interview will be recorded with (2) cameras.
 - Focal length will be no smaller than 60mm (or Full-frame equivalent)
 
 ### Both Cameras Placement (diagram) <a name="diagram"></a>
-Refer Back to this diagram as you read the rest of the instructions about camera placement. It will all make sense.
+Refer back to this diagram as you read the rest of the instructions about camera placement. It will all make sense.
 
 ![two-camera diagram](./img/2camera_diagram.png "Two-camera diagram")
 
