@@ -1,10 +1,10 @@
 <link type="text/css" rel="stylesheet" href="./style.css" />
 
 
-# Two-camera Shoot Specs
-V3: Updated: Sep 10th, 2017 by Tomas De Matteis
-This Specs and Instructions are applicable to any two-camera Shoot, for example (Video 
-testimonial template)
+# Two-Camera Shoot Specs
+V3: Updated: Sep 10th, 2017 by Tomas De Matteis.
+These specs and instructions are applicable to any two-camera shoot, for example (Video 
+Testimonial Template)
 
 This templates consists of (2) parts: “the interview” and “company B-roll”.
 
