@@ -15,7 +15,7 @@ In this document, we’ll refer to the person in front of the camera as “the s
 
 This interview will be recorded with (2) cameras.
 
-### Both Cameras Settings:
+### Camera Settings:
 - On the same video format and frame rate, FullHD 30p (or equivalent, but both cameras THE SAME)
 - No Flat profile will be use. Cameras should have an equivalent exposure setting. (depending on the cameras this might mean that the exposure settings are not the exact same values. But the exposures, the amount of light is equivalent)
 - Exposure should be "bright" but avoiding any 100% zebra (overexposure) areas on the subject. Some overexpose areas on background and windows is ok. But avoid full blown out windows right behind the subject.
