@@ -3,10 +3,10 @@
 
 # Two-camera Shoot Specs
 V3: Updated: Sep 10th, 2017 by Tomas De Matteis
-This Specs and Instructions are applicable to any two-camera Shoot, for example (Video 
+This Specs and Instructions are applicable to any two-camera Shoot, for example (Video
 testimonial template)
 
-This templates consists of (2) parts: “the interview” and “company B-roll”.
+This templates consists of (2) parts: “the interview” and “company B-roll”
 
 In this document, we’ll refer to the person in front of the camera as “the subject”, Most of the times the subject is being interview by “the interviewer” who is off-camera.
 
@@ -145,7 +145,7 @@ It's important to check how the person on camera looks before we start recording
 Be creative, this is your time to shine and come out with great shoots that can illustrate what the subject was talking about or tell us more about them and their company in a visual way.
 
 ### Some examples of b-roll shots that you can capture:
-- Whenever the subjects have time for this, we want to make sure we capture images of them working, talking to colleagues, working on the computer (using the product), on the phone, walking around the office, writing on the whiteboard, etc 
+- Whenever the subjects have time for this, we want to make sure we capture images of them working, talking to colleagues, working on the computer (using the product), on the phone, walking around the office, writing on the whiteboard, etc
 - Building Establishing Shots
 - Logo “on the wall” Shot
 - Different rooms of the office in a pan or slide camera move.
