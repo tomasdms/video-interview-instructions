@@ -67,6 +67,7 @@ The subject is also being crossed by the vertical line of third, on the same sid
 ### General Notes about Framing and Background.
 - Try to avoid background lines crossing through the subject's head and/or neck.
 - Check the background for messy or distractive elements that could be rearranged or removed.
+- Position your subject far away enough from your subject (usually at least 4 feet) to avoid casting distracting shadows right behind them produced by the main light. 
 - Avoid distinctive text in the background unless it's the company logo.
 - Backgrounds with leading lines and depth are preferred to flat ones but only when it's possible without sacrificing other important things like good audio or lighting.
 
