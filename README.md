@@ -63,6 +63,7 @@ This Shot is much tighter, the edges are 1 inch above the head up top and 2 inch
 
 #### CAM B - Shot Composition (rule of thirds)
 The subject is also being crossed by the vertical line of third, on the same side as in the main shot, whether that was left of right, it must be the same for both cameras. and both cameras are on the same side of the axis (see diagram).
+
 ![](./img/camBright.jpg)
 
 ### General Notes about Framing and Background.
